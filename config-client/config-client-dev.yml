@@ -1,1 +1,2 @@
-foo: foo version2
+server:
+ port: 8080
